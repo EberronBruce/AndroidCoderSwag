@@ -1,7 +1,8 @@
-package com.redravencomputing.coderswag
+package com.redravencomputing.coderswag.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.redravencomputing.coderswag.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
